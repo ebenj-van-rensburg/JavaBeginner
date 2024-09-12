@@ -1,0 +1,2 @@
+public class TestEquality3 {
+}
