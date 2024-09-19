@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Documentation2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch8/src/com/gmail/markdrinkwater/Payroll/Documentation/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch8/src/com/gmail/markdrinkwater/Payroll/Documentation/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch8/src/com/gmail/markdrinkwater/Payroll/Documentation/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

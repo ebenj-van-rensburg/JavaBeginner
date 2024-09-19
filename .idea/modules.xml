@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book1/Book1.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book1/Book1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02_GetStarted/Ch02_GetStarted.iml" filepath="$PROJECT_DIR$/Ch02_GetStarted/Ch02_GetStarted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03_ShopCart/Ch03_ShopCart.iml" filepath="$PROJECT_DIR$/Ch03_ShopCart/Ch03_ShopCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch04_Variables/Ch04_Variables.iml" filepath="$PROJECT_DIR$/Ch04_Variables/Ch04_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch05_ConditionsArraysLoops/Ch05_ConditionsArraysLoops.iml" filepath="$PROJECT_DIR$/Ch05_ConditionsArraysLoops/Ch05_ConditionsArraysLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch06_ObjectsClasses/Ch06_ObjectsClasses.iml" filepath="$PROJECT_DIR$/Ch06_ObjectsClasses/Ch06_ObjectsClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch07_DataManipulation/Ch07_DataManipulation.iml" filepath="$PROJECT_DIR$/Ch07_DataManipulation/Ch07_DataManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch08_Methods/Ch08_Methods.iml" filepath="$PROJECT_DIR$/Ch08_Methods/Ch08_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch09_Encapsulation/Ch09_Encapsulation.iml" filepath="$PROJECT_DIR$/Ch09_Encapsulation/Ch09_Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch10_Conditions/Ch10_Conditions.iml" filepath="$PROJECT_DIR$/Ch10_Conditions/Ch10_Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch12_Inheritance/Ch12Ex1/Ch12Ex1.iml" filepath="$PROJECT_DIR$/Ch12_Inheritance/Ch12Ex1/Ch12Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch12_Inheritance/Ch12Ex2/Ch12Ex2.iml" filepath="$PROJECT_DIR$/Ch12_Inheritance/Ch12Ex2/Ch12Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch12_Inheritance/Ch12Ex3/Ch12Ex3.iml" filepath="$PROJECT_DIR$/Ch12_Inheritance/Ch12Ex3/Ch12Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch13_Interfaces/Ch13Ex1/Ch13Ex1.iml" filepath="$PROJECT_DIR$/Ch13_Interfaces/Ch13Ex1/Ch13Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch13_Interfaces/Ch13Ex2/Ch13Ex2.iml" filepath="$PROJECT_DIR$/Ch13_Interfaces/Ch13Ex2/Ch13Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch14_Exceptions/Ch14_Exceptions.iml" filepath="$PROJECT_DIR$/Ch14_Exceptions/Ch14_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex1/Chapter11Ex1.iml" filepath="$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex1/Chapter11Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex2/Chapter11Ex2.iml" filepath="$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex2/Chapter11Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex3/Chapter11Ex3.iml" filepath="$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex3/Chapter11Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex4/Chapter11Ex4.iml" filepath="$PROJECT_DIR$/Ch11_ArraysLoopsDates/Chapter11Ex4/Chapter11Ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch1/Dummies2Ch1.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch1/Dummies2Ch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch2/Dummies2Ch2.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch2/Dummies2Ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch3/Dummies2Ch3.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch3/Dummies2Ch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch4/Dummies2Ch4.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch4/Dummies2Ch4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch5/Dummies2Ch5.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch5/Dummies2Ch5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch6/Dummies2Ch6.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch6/Dummies2Ch6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch7/Dummies2Ch7.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch7/Dummies2Ch7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch8/Dummies2Ch8.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book2/Dummies2Ch8/Dummies2Ch8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch2/Dummies3Ch2.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch2/Dummies3Ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch3/Dummies3Ch3.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch3/Dummies3Ch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch4/Dummies3Ch4.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch4/Dummies3Ch4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch5/Dummies3Ch5.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch5/Dummies3Ch5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch6/Dummies3Ch6.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch6/Dummies3Ch6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch7/Dummies3Ch7.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch7/Dummies3Ch7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch8/Dummies3Ch8.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book3/Dummies3Ch8/Dummies3Ch8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch1/Dummies4Ch1.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch1/Dummies4Ch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch2/Dummies4Ch2.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch2/Dummies4Ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch3/Dummies4Ch3.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch3/Dummies4Ch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch4/Dummies4Ch4.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch4/Dummies4Ch4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch5/Dummies4Ch5.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch5/Dummies4Ch5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch6/Dummies4Ch6.iml" filepath="$PROJECT_DIR$/DummiesBooks/Book4/Dummies4Ch6/Dummies4Ch6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBeginner.iml" filepath="$PROJECT_DIR$/.idea/JavaBeginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice07/Practice07.iml" filepath="$PROJECT_DIR$/Practices/Practice07/Practice07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch11_SoccerGame/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Practices/Ch11_SoccerGame/Practice1/Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch11_SoccerGame/Practice2/Practice2.iml" filepath="$PROJECT_DIR$/Practices/Ch11_SoccerGame/Practice2/Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch12_SoccerGame/Practice2/Practice3.iml" filepath="$PROJECT_DIR$/Practices/Ch12_SoccerGame/Practice2/Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch12_SoccerGame/Practice1/Practice4.iml" filepath="$PROJECT_DIR$/Practices/Ch12_SoccerGame/Practice1/Practice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch10_SoccerGame/Practice1/Practice5.iml" filepath="$PROJECT_DIR$/Practices/Ch10_SoccerGame/Practice1/Practice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch10_SoccerGame/Practice2/Practice6.iml" filepath="$PROJECT_DIR$/Practices/Ch10_SoccerGame/Practice2/Practice6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch13_SoccerGame/Practice2/Practice7.iml" filepath="$PROJECT_DIR$/Practices/Ch13_SoccerGame/Practice2/Practice7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch13_SoccerGame/Practice1/Practice8.iml" filepath="$PROJECT_DIR$/Practices/Ch13_SoccerGame/Practice1/Practice8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Ch13_SoccerGame/Practice3/Practice9.iml" filepath="$PROJECT_DIR$/Practices/Ch13_SoccerGame/Practice3/Practice9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice06/src/practice1/practice1.iml" filepath="$PROJECT_DIR$/Practices/Practice06/src/practice1/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice06/src/practice2/practice2.iml" filepath="$PROJECT_DIR$/Practices/Practice06/src/practice2/practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice09/practice2/practice3.iml" filepath="$PROJECT_DIR$/Practices/Practice09/practice2/practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice09/practice1/practice4.iml" filepath="$PROJECT_DIR$/Practices/Practice09/practice1/practice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice08/practice1/practice5.iml" filepath="$PROJECT_DIR$/Practices/Practice08/practice1/practice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice08/practice2/practice6.iml" filepath="$PROJECT_DIR$/Practices/Practice08/practice2/practice6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practice08/practice3/practice7.iml" filepath="$PROJECT_DIR$/Practices/Practice08/practice3/practice7.iml" />
+    </modules>
+  </component>
+</project>
